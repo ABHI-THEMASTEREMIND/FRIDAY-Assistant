@@ -1,0 +1,13 @@
+# Private configuration and credentials
+.env
+credentials.json
+gmail_token.json
+friday_settings.json
+friday_notes.txt
+
+# Generated Python files
+__pycache__/
+*.py[cod]
+
+# Local backups
+*_backup.py
